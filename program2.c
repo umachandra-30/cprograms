@@ -1,3 +1,4 @@
+//write a c program to implement wait(),exit() system calls
 #include<stdio.h>
 #include<unistd.h>
 #include<sys/types.h>
