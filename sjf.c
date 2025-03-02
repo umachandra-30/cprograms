@@ -1,3 +1,4 @@
+//shortest job first
 #include <stdio.h>
 
 void SJF(int at[], int bt[], int n) {
